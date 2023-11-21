@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-logo {
+    display: block;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 102px;
+    width: 127.13px;
+    height: 127.13px;
+
+}
+
+input {
+     display: block;
+     margin: 0 auto;
+     width: 321px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.inp-password {
+    margin: 21px auto;
+}
+
+.link-password {
+    display: block;
+    text-align: right;
+    margin-right: 59px;
+}
+
+
+
+button {
+    display: block;
+    margin: 38px auto 21px auto;
+    width: 133px;
+    height: 46px;
+    border-radius: 10px;
+    background: #323232;
+    box-shadow: -4px 4px 18px 0px #00000017;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.link-sign-up {
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #969696;
+    cursor: pointer;
+}
+
+strong {
+    color: #323232;
+}
+
+p {
+    display: block;
+    text-align: center;
+    margin: 62px 0px 12px 0px;
+}
+
+.redes {
+    display: block;
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.whats-image {
+    width: 55px;
+    height: 55px;
+    margin-right: 12px;
+}
